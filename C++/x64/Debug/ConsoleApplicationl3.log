@@ -1,0 +1,7 @@
+﻿  ConsoleApplicationl3.cpp
+D:\[Misc\Обучение\Программирование\7\C++\ConsoleApplicationl3.cpp(179,27): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\[Misc\Обучение\Программирование\7\C++\ConsoleApplicationl3.cpp(226,47): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\[Misc\Обучение\Программирование\7\C++\ConsoleApplicationl3.cpp(230,33): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\[Misc\Обучение\Программирование\7\C++\ConsoleApplicationl3.cpp(582,29): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+D:\[Misc\Обучение\Программирование\7\C++\ConsoleApplicationl3.cpp(465): warning C4715: 'Ship::operator+': not all control paths return a value
+  ConsoleApplicationl3.vcxproj -> D:\[Misc\Обучение\Программирование\7\C++\x64\Debug\ConsoleApplicationl3.exe

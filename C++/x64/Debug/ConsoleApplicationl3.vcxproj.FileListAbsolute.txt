@@ -1,0 +1,7 @@
+D:\[Misc\Обучение\Программирование\3\Lab-work-2-LR3B\x64\Debug\ConsoleApplicationl3.exe
+D:\[Misc\Обучение\Программирование\4\Lab-work-2-LR3B\x64\Debug\ConsoleApplicationl3.exe
+D:\[Misc\Обучение\Программирование\4\Lab-work-2-LR4B\x64\Debug\ConsoleApplicationl3.exe
+D:\[Misc\Обучение\Программирование\4\C++\x64\Debug\ConsoleApplicationl3.exe
+D:\[Misc\Обучение\Программирование\5\C++\x64\Debug\ConsoleApplicationl3.exe
+D:\[Misc\Обучение\Программирование\6\C++\x64\Debug\ConsoleApplicationl3.exe
+D:\[Misc\Обучение\Программирование\7\C++\x64\Debug\ConsoleApplicationl3.exe
